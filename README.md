@@ -1,4 +1,4 @@
-# Simple table calculator
+# Simplex table calculator
 
 ## About
 
